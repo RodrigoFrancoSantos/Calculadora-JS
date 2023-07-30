@@ -20,4 +20,4 @@
 
 ## 
 
-- <a href="https://rodrigofrancosantos.github.io/Calculadora-JS/" target="_ blank" >Teste o projeto, aqui !</a>
+- <a href="https://rodrigofrancosantos.github.io/Calculadora-JS/" target="_ blank" >Teste o projeto aqui !</a>
